@@ -6,7 +6,7 @@ A collection of OpenCV-based computer vision applications demonstrating real-tim
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/yourusername/cv-projects.git
+git clone https://github.com/kuro-cybet/cv-projects.git
 ```
 
 **Step 2: Navigate to the project directory**
